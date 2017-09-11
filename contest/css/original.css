@@ -1,0 +1,6 @@
+img.icon{
+    overflow: hidden;
+    width: 350px;/* トリミングしたい枠の幅 */
+    height: 350px;/* トリミングしたい枠の高さ */
+    position: relative;
+}
